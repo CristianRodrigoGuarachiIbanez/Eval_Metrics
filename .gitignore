@@ -1,0 +1,7 @@
+tokens.txt
+.coverage
+pip-wheel-metadata
+.pytest_cache
+.mypy_cache
+dependencies
+.idea

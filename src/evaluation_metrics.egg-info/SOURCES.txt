@@ -1,0 +1,14 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+src/evaluation_metrics/__init__.py
+src/evaluation_metrics/main.py
+src/evaluation_metrics/metrics.py
+src/evaluation_metrics/py.typed
+src/evaluation_metrics.egg-info/PKG-INFO
+src/evaluation_metrics.egg-info/SOURCES.txt
+src/evaluation_metrics.egg-info/dependency_links.txt
+src/evaluation_metrics.egg-info/not-zip-safe
+src/evaluation_metrics.egg-info/requires.txt
+src/evaluation_metrics.egg-info/top_level.txt
